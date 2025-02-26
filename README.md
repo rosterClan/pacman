@@ -3,7 +3,7 @@
   <a href="">
     <img src="" alt="Logo">
   </a>
-  <h3 align="center">Secure Online Chat Application</h3>
+  <h3 align="center">Pacman (From Scratch)</h3>
 </div>
 
 ## About The Project
