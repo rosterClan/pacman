@@ -13,6 +13,11 @@ Developed a fully functional Pac-Man game entirely from scratch (ignoring the pr
 <a href="">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python">
 </a>
+<a href="">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="python">
+</a>
+
+
 
 ## Getting Started
 This is an example of how you may give instructions on setting this project locally. Clone this repo and then perform the following steps. 
