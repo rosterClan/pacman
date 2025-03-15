@@ -20,15 +20,5 @@ Developed a fully functional Pac-Man game entirely from scratch (ignoring the pr
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="java">
 </a>
 
-## Getting Started
-This is an example of how you may give instructions on setting this project locally. Clone this repo and then perform the following steps. 
-
-### Prerequisites
-1: Clone the repo
-2: Install required librarys
-  ```sh
-  dotnet restore
-  ```
-
 ## Contact
 William Walker - william.sinclair.walker@gmail.com
